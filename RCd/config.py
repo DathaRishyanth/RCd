@@ -4,7 +4,7 @@ LOGS = False
 
 LOGIN = False # Set to false if you want to allow people to directly query the server
 # Mailer variables
-VERIFY_MAIL = True # Do you want email verification?
+VERIFY_MAIL = False # Do you want email verification?
 MAIL_SENDER = "example@gmail.com" # The email ID from which you'll send mails like OTP for registration
 
 
